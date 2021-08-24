@@ -1,0 +1,1 @@
+All the parameters to the echo command are printed to the screen. with \n it prints a new line.
