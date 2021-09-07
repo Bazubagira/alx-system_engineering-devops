@@ -1,1 +1,1 @@
-0-hello_world file contains script that prints hello world followed by new line
+1. echo command helps to print Hello, World.
