@@ -3,3 +3,4 @@
 3.cat command helps to display the containt of file.
 4.tail displays the last n lines of a file.
 5. head script displays the first n lines of the file.
+6.grep search the pattern in a file.
