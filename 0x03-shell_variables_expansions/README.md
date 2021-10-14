@@ -1,0 +1,1 @@
+This folder in this project contains different scripts that are used in shell_variables_expansions.
