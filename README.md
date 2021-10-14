@@ -1,1 +1,1 @@
-This folder contains various command of shell.
+This repository contains various command and scripts of Bash Shell.
